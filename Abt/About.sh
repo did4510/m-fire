@@ -12,7 +12,7 @@ echo '
 echo " "
 echo "                             About"|lolcat
 echo " "
-echo "       🙏 Hey, there I am Darshil , i made this tool
+echo "       🙏 Hey, there I am Mr.white , i made this tool
   to make the  installation of metasploit-framework in termux become 
        easy by this auto script you can install,repair,backup
     or, restore metasploit in termux easyli, so i hope guys you
